@@ -1,9 +1,7 @@
 # Hello Stranger<img src="https://img.icons8.com/color/48/000000/kakashi-hatake.png"/>
 # 💫About Me :
 <img src="https://img.icons8.com/doodle/24/000000/android-studio--v3.png"/>I'm currently working on a College Project.
-
 <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/000000/external-kotlin-a-cross-platform-statically-typed-general-purpose-programming-language-with-type-inference-logo-filled-tal-revivo.png"/>I'm currently learning Android with Kotlin.
-
 <img src="https://img.icons8.com/external-filled-outline-geotatah/24/000000/external-business-microeconomics-color-filled-outline-geotatah.png"/>Looking for an Internship
 
 <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/24/000000/external-quote-customer-feedback-flaticons-lineal-color-flat-icons-2.png"/>The world is a book, every step we take open a page for us.

@@ -1,4 +1,4 @@
-# Hello Stranger![image](https://github.com/sumeet2442/Sumeet2442/assets/72160394/e7053157-15a6-4aa4-9ffa-8ddc70c22a42)
+# Hello Stranger!<img src="https://img.icons8.com/color/48/000000/kakashi-hatake.png"/>
 
 # 💫About Me :
 <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/000000/external-kotlin-a-cross-platform-statically-typed-general-purpose-programming-language-with-type-inference-logo-filled-tal-revivo.png" class="center"/>I'm currently learning Android with Kotlin.<br>
